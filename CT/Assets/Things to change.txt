@@ -1,0 +1,6 @@
+Disable random stuff on EnableCube
+Move MoveCube
+Change flags of clear flags Cube
+Change light color
+change code in script
+Change fullscreen mode in settings
